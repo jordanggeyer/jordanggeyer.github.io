@@ -55,7 +55,7 @@ p:hover {
 }
 
 .center:hover {
-    transition: transform 3s;
+    transition: transform 4s;
     transform: scale(1.01);
 }
 
